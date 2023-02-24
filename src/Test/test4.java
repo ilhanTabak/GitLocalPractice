@@ -6,5 +6,6 @@ public class test4 {
 
         System.out.println("test 2");
         System.out.println("test degis");
+        System.out.println("dhdjd");
     }
 }
